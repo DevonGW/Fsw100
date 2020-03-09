@@ -1,0 +1,49 @@
+nav{
+    float: left;
+    color: red;
+    text-align: center;
+    padding-right: 90%;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 100%;
+    background-color: gold;
+    margin-bottom: 2% ;
+    height: 200px;
+
+
+}
+
+body{
+    background-color: crimson;
+}
+
+.pic{
+    float: left;
+    width: 30%;
+    height: 30%;
+    margin-right: 6%;
+
+}
+
+.prayer{
+    float: right;
+    margin-right: 10%;
+    line-height: 40px;
+    width: 15%;
+    border: hidden gold;
+    padding: 30px;
+    background-color: gold;
+
+
+
+}
+
+.stay{
+    float: left;
+    margin-right: 100%;
+    width: 20%;
+    border: hidden gold;
+    padding: 8px;
+    background-color: gold;
+
+}

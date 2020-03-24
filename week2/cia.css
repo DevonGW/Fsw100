@@ -1,0 +1,40 @@
+.first-class{
+    color: darkgreen;
+    
+}
+h1,h2{
+    font-family: georgia;
+    text-align: center;
+}
+
+p, div{
+    font-size: 21px
+}
+
+li{
+    font-size: 16px;
+    
+}
+div{
+    line-height: 200%;
+    overflow: auto;
+    clear: right;
+    
+}
+
+img{
+    float: left;
+}
+
+a, u{
+    text-decoration: none;
+}
+
+.resize{
+    width: 30%;
+    height: auto;
+    margin: 2%;
+}
+
+
+

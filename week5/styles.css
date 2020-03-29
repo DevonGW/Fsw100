@@ -1,0 +1,132 @@
+.background{
+    background-color:white;
+}
+
+.pink{
+    height:200px;
+    width: 93%;
+    background-color: pink;
+}
+
+.hotpink{
+    background-color:#EE2E84;
+    width:23%;
+    height:150px;
+    border: hidden;
+    margin: 1px;
+    display: inline-block;
+    margin-top: 2%;
+}
+
+.lightblue{
+    background-color: #85CFD8;
+    width: 46%;
+    height: 140px;
+    margin: 2px;
+    display: inline-block;
+}
+
+.green{
+    background-color: #8DC63F;
+    width: 70%;
+    height: 140px;
+    display: inline-block;
+    margin: 2px;
+}
+.orange{
+    background-color:#E76E3F;
+    width: 23%;
+    height: 140px;
+    display: inline-block;
+    margin: 2px; 
+}
+
+@media screen (min-width: 768px){
+    .background{
+        background-color:white;
+    }
+    
+    .pink{
+        height:200px;
+        width: 93%;
+        background-color: pink;
+    }
+    
+    .hotpink{
+        background-color:#EE2E84;
+        width:23%;
+        height:150px;
+        border: hidden;
+        margin: 1px;
+        display: inline-block;
+        margin-top: 2%;
+    }
+    
+    .lightblue{
+        background-color: #85CFD8;
+        width: 46%;
+        height: 140px;
+        margin: 2px;
+        display: inline-block;
+    }
+    
+    .green{
+        background-color: #8DC63F;
+        width: 70%;
+        height: 140px;
+        display: inline-block;
+        margin: 2px;
+    }
+    .orange{
+        background-color:#E76E3F;
+        width: 23%;
+        height: 140px;
+        display: inline-block;
+        margin: 2px; 
+    }
+}
+
+@media screen and (max-width:768px){
+    .background{
+        background-color:white;
+    }
+    
+    .pink{
+        height:200px;
+        width: 100%;
+        background-color: pink;
+    }
+    
+    .hotpink{
+        background-color:#EE2E84;
+        width:100%;
+        height:150px;
+        border: hidden;
+        margin: 1px;
+        display: block;
+        margin-top: 2%;
+    }
+    
+    .lightblue{
+        background-color: #85CFD8;
+        width: 100%;
+        height: 140px;
+        margin: 2px;
+        display: block;
+    }
+    
+    .green{
+        background-color: #8DC63F;
+        width: 100%;
+        height: 140px;
+        display: block;
+        margin: 2px;
+    }
+    .orange{
+        background-color:#E76E3F;
+        width: 100%;
+        height: 140px;
+        display: block;
+        margin: 2px; 
+    }
+}

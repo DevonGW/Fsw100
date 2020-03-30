@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+
+#box1{
+    height: 100px;
+    width:30%;
+    background-color: yellow;
+    border: hidden 3px;
+    display: inline-block;
+    transition-delay: 2s;
+
+    
+}
+
+#box2{
+    height: 100px;
+    width:30%;
+    background-color: yellow;
+    border: hidden 3px;
+    display: inline-block;
+    transition-delay: 1s;
+
+}
+
+#box3{
+    height: 100px;
+    width:30%;
+    background-color: yellow;
+    border: hidden 3px;
+    display: inline-block;
+}
+
+#box4{
+    height: 100px;
+    width:30%;
+    background-color: yellow;
+    border: hidden 3px;
+    display: inline-block;
+}
+
+#box5{
+    height: 100px;
+    width:30%;
+    background-color: yellow;
+    border: hidden 3px;
+    display: inline-block;
+}
+
+#box6{
+    height: 100px;
+    width:30%;
+    background-color: yellow;
+    border: hidden 3px;
+    display: inline-block;
+
+}
+
+
+
+#box1:hover{
+    background-color: darkorange;
+    width: 200px;
+
+}
+
+#box2:hover{
+    background-color: deeppink;
+    width:150px;
+}
+
+#box3:hover{
+    background-color:chartreuse;
+    width: 400px;
+    height: 500px;
+    border-radius: 35px;
+}
+
+#box4:hover{
+    background-color: darkblue;
+    box-shadow: darkmagenta;
+}
+
+#box5:hover{
+    background-color: darkturquoise;
+    opacity: 38px;
+}
+
+#box6:hover{
+    background-color: forestgreen;
+    position: absolute;
+    height: 480px;
+    width:40%;
+}
